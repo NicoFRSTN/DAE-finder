@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  owner: MyString
+  address: MyString
+  building: MyString
+  floor: MyString
+  situation: MyString
+  open_days: MyString
+  open_hours: MyString
+  access: false
+  working: false
+
+two:
+  name: MyString
+  owner: MyString
+  address: MyString
+  building: MyString
+  floor: MyString
+  situation: MyString
+  open_days: MyString
+  open_hours: MyString
+  access: false
+  working: false
